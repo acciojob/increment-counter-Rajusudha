@@ -1,17 +1,4 @@
 /*  your css code here. If applicable */
-  body {
-      font-family: 'Arial', sans-serif;
-      text-align: center;
-      margin: 50px;
-    }
+  
 
-    #counter {
-      font-size: 24px;
-      margin-bottom: 20px;
-    }
-
-    #incrementBtn {
-      font-size: 16px;
-      padding: 10px;
-      cursor: pointer;
-    }
+   
